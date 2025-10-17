@@ -68,11 +68,13 @@ Even though it’s a small one, it helped me understand the **real process of co
 Webscraping_project/
 │
 
-├── Webscraping_project.ipynb   # Project file
+├── Webscraping_project.ipynb           # Project file in ipynb format
 
-├── Output_data.csv             # Scraped data
+├── Output_data.csv                     # Scraped data
 
-└── README.md                   # This file
+└── README.md                           # This file
+
+├── Webscraping_project.pdf             # Project file in pdf format
 
 ---
 
