@@ -8,7 +8,7 @@ I made this project just for practice and revision after learning web scraping i
 
 ## About the Project  
 
-I scraped data from a static website — *[Add website link here]* — which has a collection of books with their names, prices, and ratings.  
+I scraped data from a static website — *[Book to Scarpe](https://books.toscrape.com/index.html)* — which has a collection of books with their names, prices, and ratings.  
 It’s a simple site made for beginners to practice web scraping safely.  
 
 The idea was to collect that data and organize it in a clean tabular form using Python.  
@@ -45,11 +45,11 @@ The idea was to collect that data and organize it in a clean tabular form using 
 
 Here’s how the final data looks after scraping and cleaning:  
 
-| Title | Price (£) | Rating |
-|--------|------------|---------|
-| A Light in the Attic | £51.77 | 3 |
-| Tipping the Velvet | £53.74 | 1 |
-| Soumission | £50.10 | 1 |
+|  | Title | Price (£) | Rating |
+|---|--------|------------|---------|
+| 0 | A Light in the Attic | £51.77 | 3 |
+| 1 | Tipping the Velvet | £53.74 | 1 |
+| 2 | Soumission | £50.10 | 1 |
 
 *(Sample data from the demo website — not real book info)*  
 
